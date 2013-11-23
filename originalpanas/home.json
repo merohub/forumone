@@ -1,0 +1,5 @@
+{ 
+"news":{"home": "<div id='head1' class='ui-body ui-body-d'><h2>Today's Special</h2>Noodle with meat balls&nbsp;&nbsp;&nbsp;$6.99<br/><br/><img src='images/special.jpg' class='fullscreen' /></div>"},
+"news2":{"home": "<div id='head1' class='ui-body ui-body-d'><h2>Today's Special</h2>Spaghette with rashberry&nbsp;&nbsp;&nbsp;$3.99<br/><br/><img src='images/special2.jpg' class='fullscreen' /></div>"}
+
+}
